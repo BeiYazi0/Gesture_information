@@ -43,4 +43,4 @@
 
 ![](DCA1000+mmWave_Studio进行数据采集/gesture1.png)
 
-![](DCA1000+mmWave_Studio 进行数据采集/gesture2.png)
+![](DCA1000+mmWave_Studio进行数据采集/gesture2.png)
