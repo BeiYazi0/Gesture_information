@@ -37,10 +37,10 @@
 
 不提供数据处理代码。
 
-[PDF](DCA1000+mmWave Studio 进行数据采集/使用 DCA1000+mmWave Studio 软件进行数据采集.pdf)完整地介绍了手势信息的采集和预处理流程。
+[PDF](DCA1000+mmWave_Studio进行数据采集/使用DCA1000+mmWave_Studio软件进行数据采集.pdf)完整地介绍了手势信息的采集和预处理流程。
 
 ## 预期效果
 
-![](DCA1000+mmWave Studio 进行数据采集/gesture1.png)
+![](DCA1000+mmWave_Studio进行数据采集/gesture1.png)
 
-![](DCA1000+mmWave Studio 进行数据采集/gesture2.png)
+![](DCA1000+mmWave_Studio 进行数据采集/gesture2.png)
